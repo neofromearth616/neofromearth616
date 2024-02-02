@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @neofromearth616
-- 👀 I’m interested in practicing my coding skills with a buddy to share and grow together as programmers if there are any possiblities of course.! xD
-- 🌱 I’m currently learning PYTHON on UDEMY 100 Days of code with Dr. Angela Yu, is great but in maybe in company will be awesome.
-- 💞️ I’m looking to collaborate on anything I colud debbug or learn.
+- 👀 I’m interested in practicing my coding skills.
+- Visual projects on.
 - 📫 How to reach me:
 -     Replit: https://replit.com/@neofrommatrixearth616
 -     Instagram: https://www.instagram.com/nio.art8
