@@ -4,9 +4,7 @@
 - 💞️ I’m looking to collaborate on anything I colud debbug or learn.
 - 📫 How to reach me:
 -     Replit: https://replit.com/@neofrommatrixearth616
--     Twitter: https://twitter.com/niofromearth
--     Instagram: https://www.instagram.com/niofromearth/
-
+-     Instagram: https://www.instagram.com/nio.art8
 <!---
 neofromearth616/neofromearth616 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
